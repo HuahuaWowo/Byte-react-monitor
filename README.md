@@ -12,9 +12,13 @@
 
 ### 使用方法
 ####  ErrorMonitor PageDuration
+
 * 可以在路由中导入，包裹需要监控的子组件
+
 ![](https://github.com/HuahuaWowo/Byte-react-monitor/raw/master/example/import.png)
-![](https://github.com/HuahuaWowo/Byte-react-monitor/raw/master/example/routerimport.png)
+
+![](https://github.com/HuahuaWowo/Byte-react-monitor/raw/master/example/routerImport.png)
 
 #### usePerformance 性能监控
+
 ![](https://github.com/HuahuaWowo/Byte-react-monitor/raw/master/example/globalMonitor.png)
